@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Bu, elemanların dikey olarak sıralanmasını sağlar */
+    height: 100vh; /* Bu, konteyner div'inin tüm ekranı kaplamasını sağlar */
+  }
+  
+  #canvas-container {
+    /* canvas için özel stiller buraya gelebilir, eğer gerekliyse */
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    margin-top: 20px; /* canvas ve select kutuları arasında biraz boşluk oluşturur */
+  }
+  
+  .styled-select {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background: #f0f0f0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none; /* select kutusunu seçtiğinizde oluşan çerçeveyi kaldırır */
+    appearance: none; /* tarayıcıların özelleştirilmiş select stillerini kaldırır */
+  }
+  
