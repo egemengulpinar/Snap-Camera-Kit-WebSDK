@@ -1,4 +1,4 @@
-# Snap-Camera-Kit-WebSDK
+# Snap-Camera-Kit-WebSDK [EN](https://github.com/egemengulpinar/Snap-Camera-Kit-WebSDK/blob/main/README.md) | [ES](https://github.com/egemengulpinar/Snap-Camera-Kit-WebSDK/blob/main/docs/README_ES.md)
 Temel Snap Camera-Kit Yayını & Entegrasyon rehberi. Daha fazla detay ve belgelendirme için lütfen Docs Snap CameraKit WebSDK kontrol edin.
 
 Bu rehberde ayrıca bu projeyi vercel kullanarak NextJS ile yayınlıyoruz. Sonuçları görmek için aşağıdaki Demo uygulamasını kontrol edin.

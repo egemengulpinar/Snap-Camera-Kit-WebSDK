@@ -1,4 +1,4 @@
-# Snap-Camera-Kit-WebSDK
+# Snap-Camera-Kit-WebSDK [EN](https://github.com/egemengulpinar/Snap-Camera-Kit-WebSDK/blob/main/README.md) | [TR](https://github.com/egemengulpinar/Snap-Camera-Kit-WebSDK/blob/main/docs/README_TR.md)
 Guía básica de despliegue e integración de Snap Camera-Kit. Para más detalles y documentación, por favor consulte [Documentos de Snap CameraKit WebSDK](https://docs.snap.com/camera-kit/quick-start/integrate-sdk/integrate-sdk-web/web-configuration)
 
 En esta guía, también desplegamos este proyecto a través de vercel usando NextJS. Para ver los resultados, por favor consulte la aplicación de demostración a continuación.
