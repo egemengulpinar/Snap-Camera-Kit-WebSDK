@@ -7,9 +7,8 @@ In this guide, we also deploy this project via **vercel** using with **NextJS**.
 ## Demo
  *Please first allow camera access and snap legal terms.*
 
-- [ ] For security reasons, demo web app was terminated. Please first, help to fix Issues that I represented on the repo.
 
-~~[next-app-egemengulpinar.vercel.app](https://next-app-egemengulpinar.vercel.app/)~~
+[next-app-egemengulpinar.vercel.app](https://next-app-egemengulpinar.vercel.app/)~~
 
 
 
