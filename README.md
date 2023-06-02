@@ -8,7 +8,7 @@ In this guide, we also deploy this project via **vercel** using with **NextJS**.
  *Please first allow camera access and snap legal terms.*
 
 
-[next-app-egemengulpinar.vercel.app](https://next-app-egemengulpinar.vercel.app/)~~
+[next-app-egemengulpinar.vercel.app](https://next-app-egemengulpinar.vercel.app/)
 
 
 
